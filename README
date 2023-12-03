@@ -1,0 +1,21 @@
+# Advent of Code Progress
+
+This repository contains my personal solutions for the Advent of Code challenges. Advent of Code is an annual set of Christmas-themed computer programming challenges that follow an advent calendar.
+
+## Motivation
+
+The purpose of this project is to track my progress as I attempt to solve the Advent of Code challenges. It's a fun way to improve my programming skills and get into the holiday spirit!
+
+## Structure
+
+Each day's challenge is in its respective directory, named `day01`, `day02`, ..., `day25`. Inside each directory, you'll find two files:
+
+- `solution.rb`: My Ruby solution for the day's challenge.
+- `input.txt`: The challenge input provided by Advent of Code.
+
+## Running Solutions
+
+To run a solution for a specific day:
+
+```bash
+ruby dayXX/solution.rb
